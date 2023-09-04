@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🧑‍🎓
 
-<!--
-**ProfessorFilipe/ProfessorFilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Filipe Alves Ferreira
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Java Script 
+- Utilizo esse espaço para armazenar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+filipe.alves.ferreira@escola.pr.gov.br
+
+@filipealvesferreira
+
+![](https://media.tenor.com/d4sPgSJml54AAAAC/opihomm-funny.gif)
