@@ -2,8 +2,9 @@
 
 Meu nome é Filipe Alves Ferreira
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem Java Script 
+- Sou professor de pensamento computacional
+-  Estou estudando na [Alura](https://www.alura.com.br)
+
 - Utilizo esse espaço para armazenar meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
