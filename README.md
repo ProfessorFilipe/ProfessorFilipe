@@ -12,4 +12,4 @@ filipe.alves.ferreira@escola.pr.gov.br
 
 @filipealvesferreira
 
-![](https://media.tenor.com/d4sPgSJml54AAAAC/opihomm-funny.gif)
+
